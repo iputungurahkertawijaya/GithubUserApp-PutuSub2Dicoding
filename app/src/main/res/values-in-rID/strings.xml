@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserApp-PutuSub2Dicoding</string>
+    <string name="hello_blank_fragment">Hallo blank fragment</string>
+    <string name="search_username">Cari Username</string>
+    <string name="name_not_found">Nama Tidak Tersedia</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="input_github_username">Masukkan User Github...</string>
+    <string name="type">Tipe</string>
+</resources>
